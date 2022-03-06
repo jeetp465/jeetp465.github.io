@@ -809,6 +809,10 @@
     content: "\f5dc"
 }
 
+.fa-brain-circuit:before {
+    content: "\e0c6"
+}
+
 .fa-bread-slice:before {
     content: "\f7ec"
 }
